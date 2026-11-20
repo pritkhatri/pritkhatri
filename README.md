@@ -4,8 +4,8 @@ I'm an M.Sc. physics student at Ruhr-Universität Bochum. My background is compu
 plasma physics, and most of what I build is in Python: neural networks trained on simulation
 data, numerical solvers, and data pipelines with a proper evaluation.
 
-I'm looking for a Werkstudent job in machine learning, data science or AI engineering,
-in the Ruhr area or remote.
+I'm looking for a Werkstudent job or a student assistant (HiWi) position at a university
+in machine learning, data science or AI engineering, in the Ruhr area or remote.
 
 ## Projects
 
